@@ -11,3 +11,6 @@ The repository currently contains the MATLAB code used in the original IO-PS pap
 The research group is continually working on extending our reseaerch and making available new developments. Additions that are close to completion and that will be added soon include:
 1. IO-PS implemented in Python
 2. IO-PS implemented in R
+## References
+* Bam, W., & De Bruyne, K. (2017). Location policy and downstream mineral processing: A research agenda. Extractive Industries and Society, 4(3), 443–447. https://doi.org/10.1016/j.exis.2017.06.009
+* Marais, M., & Bam, W. (2019). Developmental potential of the aerospace industry: the case of South Africa. In 2019 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1–9). IEEE. https://doi.org/10.1109/ICE.2019.8792812
