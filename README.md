@@ -5,7 +5,7 @@ Public repository of code related to research on the input-output product space 
 The repository currently contains the MATLAB code used in the original IO-PS paper mentioned above, as well as various extensions. For now, this includes:
 1. Basic MATLAB functions to calculate product space-related metrics
 2. The full IO-PS as presented in the above paper, but with a version added to use average metrics in the product space instead of average metrics in the value chain
-3. A version of the IO-PS that can be used for panel data analysis (as used in upcoming publication in Journal of Interantional Business Policy)
+3. A version of the IO-PS that can be used for panel data analysis (as used in a publication in the Journal of International Business Policy (https://link.springer.com/article/10.1057/s42214-020-00081-7))
 4. Code for drawing tradeoff figure (as used in upcoming publication in Journal of Interantional Business Policy)
 ## Upcoming content
 The research group is continually working on extending our reseaerch and making available new developments. Additions that are close to completion and that will be added soon include:
