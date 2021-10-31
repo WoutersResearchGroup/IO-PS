@@ -8,7 +8,7 @@ The repository currently contains the MATLAB code used in the original IO-PS pap
 3. A version of the IO-PS that can be used for panel data analysis (as used in https://link.springer.com/article/10.1057/s42214-020-00081-7)
 4. Code for drawing tradeoff figure (as used in https://link.springer.com/article/10.1057/s42214-020-00081-7)
 ## Upcoming content
-The research group is continually working on extending our reseaerch and making available new developments. Additions that are close to completion and that will be added soon include:
+The research group is continually working on extending our research and making available new developments. Additions that are close to completion and that will be added soon include:
 1. IO-PS implemented in Python
 2. IO-PS implemented in R
 3. Extended IO-PS with sustainability metrics
